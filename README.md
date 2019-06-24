@@ -15,7 +15,7 @@ Visual Studio 2013 or newer version for the backend and Visual Studio code for t
 
 You can find the api full documentation after lancing the back-end under the route/Help : 
 ``` 
-  http://localhost:8647/Help
+ for example : http://localhost:8647/Help
 ```
 Please ensure that the api run with the port 8647.
 
